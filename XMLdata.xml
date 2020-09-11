@@ -1,0 +1,5 @@
+<Player>
+  <Name value="Player" />
+  <Health value="100" />
+  <Dead value="False" />
+</Player>
